@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+}
+
+.boximage{
+    background-color: #313A89;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman';
+    color: #005677;
+}
+
+.styletitles {
+    font-family: 'Times New Roman';
+    color: #005677;
+    padding: 10px;
+    
+}
+
+.boxtitles {
+    background-color: #C4C4C4;
+}
+
+span.lists {
+    font-family: 'Times New Roman';
+}
+
+span.cursiva{
+    font-style: italic;
+    font-weight: bold;
+}
+
+span.negrita{
+    font-weight: bold;
+}
+
+.pie_pagina{
+    background-color: #005677;
+}
+
+.footer{
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
